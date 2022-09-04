@@ -1,3 +1,11 @@
 /* CSS Stylesheet */
 
 @import url("css/normalize.css");
+
+
+
+/* == Main Style == */
+
+body {
+    background-color: rgb(30, 30, 30);
+}
